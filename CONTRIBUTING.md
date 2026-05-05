@@ -5,7 +5,7 @@ We welcome contributions from everyone whether it's fixing a bug, adding a new f
 
 ---
 
-## How to Contribute
+## How to Contribute1
 
 1. **Fork** the repo
 2. **Create a new branch** (example: `git checkout -b feature/added-about-page`)

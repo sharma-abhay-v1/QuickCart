@@ -6,7 +6,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 
 ---
 
-## Features
+## Features1
 
 -   Built with **Next.js + Tailwind CSS**
 -   Responsive design
