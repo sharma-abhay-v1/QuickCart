@@ -26,3 +26,4 @@ const AllProducts = () => {
 };
 
 export default AllProducts;
+/*1*/
